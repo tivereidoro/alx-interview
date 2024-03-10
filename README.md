@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# ALX - SWE : alx_interview
+# ALX - SWE : alx-interview
 </div>
 
 ### This directory contains the task solutions for my ALX-SWE `alx-interview` projects.
