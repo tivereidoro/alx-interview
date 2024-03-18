@@ -44,6 +44,8 @@
 ### Additional Resources 🧰
 * [Mock Technical Interview](https://www.youtube.com/watch?v=V8DGdPkBBxg)
 
+##
+
 ### General Requirements
 * Allowed editors: `vi`, `vim`, `emacs`
 * All your files will be interpreted/compiled on Ubuntu 20.04 LTS using `python3` (version 3.4.3)
@@ -53,6 +55,8 @@
 * Your code should be documented
 * Your code should use the `PEP 8` style (version 1.7.x)
 * All your files must be executable
+
+##
 
 ### Tasks 🎯
 ### 0. Lockboxes: [0-lockboxes.py](0-lockboxes.py)
